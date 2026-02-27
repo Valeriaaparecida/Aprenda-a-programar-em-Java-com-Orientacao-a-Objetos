@@ -1,0 +1,1 @@
+Nome = Thor, Ano De Lancamento = 2011,  Duração = 11
